@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This application is simple Library Management system with following functionalities,
+This application is simple POS system with following functionalities,
          Manage customers
          Manage items
          Place orders
