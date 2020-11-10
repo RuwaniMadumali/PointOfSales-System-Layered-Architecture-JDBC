@@ -37,14 +37,14 @@ If you did above installations, You only have to double click the jar file and i
 
 ## POS with Maven
 
-* [POS with Layered-Maven]()
-* [POS with Layered-[Hibernate-Maven]]()
-* [POS with Layered-[JPA Hibernate-Maven]]()
-* [POS with Layered-[Hibernate-Spring-Maven]]()
-* [POS with Layered-[JPA Hibernate-Spring-Maven]]()
-* [POS with Layered-[Spring knows Hibernate Maven]]()
-* [POS with Layered-[Spring knows JPA Maven]]()
-* [POS with Layered-[Spring Data JPA Maven]]()
+* [POS with Layered-Maven](https://github.com/RuwaniMadumali/PointOfSales-System-Layered-Architecture-JDBC-with-Maven)
+* [POS with Layered-[Hibernate-Maven]](https://github.com/RuwaniMadumali/POS-Layered-Hibernate-Maven)
+* [POS with Layered-[JPA-Maven]](https://github.com/RuwaniMadumali/POS-Layered-JPA-Maven)
+* [POS with Layered-[Hibernate-Spring-Maven]](https://github.com/RuwaniMadumali/POS-Integration-Hibernate-with-Spring)
+* [POS with Layered-[JPA-Spring-Maven]](https://github.com/RuwaniMadumali/POS-Integration-JPA-with-Sring-Maven)
+* [POS with Layered-[Spring knows Hibernate Maven]](https://github.com/RuwaniMadumali/POS-Spring-Hibernate-Maven)
+* [POS with Layered-[Spring knows JPA Maven]](https://github.com/RuwaniMadumali/POS-System-layered-spring-JPA-Maven)
+* [POS with Layered-[Spring Data JPA Maven]](https://github.com/RuwaniMadumali/POS-system-spring-data-jpa-maven)
 
 ## Author
 
